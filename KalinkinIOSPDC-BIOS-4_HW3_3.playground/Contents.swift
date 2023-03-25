@@ -65,3 +65,4 @@ func convertPoints (from userPoints: [Int: Double], _ bonuses:Int = 100, _ cash:
     return userMoney
 }
 print(convertPoints(from: userPoints))
+// 
